@@ -1,0 +1,11 @@
+= Copa Ramón Castilla 1976
+
+# Date       Thu Oct/28 - Wed Nov/10 1976 (13d)
+# Teams      2
+# Matches    2
+
+[Thu Oct 28]
+  Peru - Argentina  1-3   @ Lima, Peru
+[Wed Nov 10]
+  Argentina - Peru  1-0   @ Buenos Aires, Argentina
+

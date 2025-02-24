@@ -1,0 +1,11 @@
+= Copa Juan Pinto Durán 1979
+
+# Date       Wed Jul/11 - Wed Jul/18 1979 (7d)
+# Teams      2
+# Matches    2
+
+[Wed Jul 11]
+  Chile - Uruguay  1-0   @ Santiago, Chile
+[Wed Jul 18]
+  Uruguay - Chile  2-1   @ Montevideo, Uruguay
+

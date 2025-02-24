@@ -1,0 +1,13 @@
+= Vietnam Independence Cup 1961
+
+# Date       Sat Oct/21 - Thu Oct/26 1961 (5d)
+# Teams      3
+# Matches    3
+
+[Sat Oct 21]
+  Vietnam Republic - Indonesia  4-1   @ Saigon, Vietnam Republic
+[Mon Oct 23]
+  Indonesia - Malaysia  1-3   @ Saigon, Vietnam Republic
+[Thu Oct 26]
+  Vietnam Republic - Malaysia  1-0   @ Saigon, Vietnam Republic
+

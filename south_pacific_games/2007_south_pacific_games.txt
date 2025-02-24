@@ -1,0 +1,38 @@
+= South Pacific Games 2007
+
+# Date       Sat Aug/25 - Fri Sep/7 2007 (13d)
+# Teams      10
+# Matches    24
+
+[Sat Aug 25]
+  Fiji - Tuvalu  16-0   @ Apia, Samoa
+  Samoa - Vanuatu  0-4   @ Apia, Samoa
+  Solomon Islands - American Samoa  12-1   @ Apia, Samoa
+  Tahiti - New Caledonia  0-1   @ Apia, Samoa
+[Mon Aug 27]
+  Fiji - Cook Islands  4-0   @ Apia, Samoa
+  Samoa - American Samoa  7-0   @ Apia, Samoa
+  Solomon Islands - Tonga  4-0   @ Apia, Samoa
+  Tuvalu - New Caledonia  0-1   @ Apia, Samoa
+[Wed Aug 29]
+  American Samoa - Vanuatu  0-15   @ Apia, Samoa
+  New Caledonia - Cook Islands  3-0   @ Apia, Samoa
+  Samoa - Tonga  2-1   @ Apia, Samoa
+  Tuvalu - Tahiti  1-1   @ Apia, Samoa
+[Sat Sep 1]
+  Cook Islands - Tuvalu  4-1   @ Apia, Samoa
+  Tahiti - Fiji  0-4   @ Apia, Samoa
+  Tonga - American Samoa  4-0   @ Apia, Samoa
+  Vanuatu - Solomon Islands  0-2   @ Apia, Samoa
+[Mon Sep 3]
+  Cook Islands - Tahiti  0-1   @ Apia, Samoa
+  New Caledonia - Fiji  1-1   @ Apia, Samoa
+  Samoa - Solomon Islands  0-3   @ Apia, Samoa
+  Tonga - Vanuatu  1-4   @ Apia, Samoa
+[Wed Sep 5]
+  Fiji - Vanuatu  3-0   @ Apia, Samoa
+  Solomon Islands - New Caledonia  2-3   @ Apia, Samoa
+[Fri Sep 7]
+  New Caledonia - Fiji  1-0   @ Apia, Samoa
+  Solomon Islands - Vanuatu  0-2   @ Apia, Samoa
+

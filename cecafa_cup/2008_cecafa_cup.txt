@@ -1,0 +1,10 @@
+= CECAFA Cup 2008
+
+# Date       Wed Dec/31 - Wed Dec/31 2008 (0d)
+# Teams      4
+# Matches    2
+
+[Wed Dec 31]
+  Sudan - Kenya  0-0   @ Jinja, Uganda
+  Zambia - Djibouti  3-0   @ Jinja, Uganda
+

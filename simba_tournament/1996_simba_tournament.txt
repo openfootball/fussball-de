@@ -1,0 +1,16 @@
+= Simba Tournament 1996
+
+# Date       Sat Sep/14 - Sat Sep/21 1996 (7d)
+# Teams      4
+# Matches    6
+
+[Sat Sep 14]
+  Australia - Ghana  2-0   @ Durban, South Africa
+  South Africa - Kenya  1-0   @ Durban, South Africa
+[Wed Sep 18]
+  Ghana - Kenya  1-0   @ Johannesburg, South Africa
+  South Africa - Australia  2-0   @ Johannesburg, South Africa
+[Sat Sep 21]
+  Australia - Kenya  4-0   @ Pretoria, South Africa
+  South Africa - Ghana  0-0   @ Pretoria, South Africa
+

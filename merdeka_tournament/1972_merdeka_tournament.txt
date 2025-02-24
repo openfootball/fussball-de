@@ -1,0 +1,48 @@
+= Merdeka Tournament 1972
+
+# Date       Wed Jul/12 - Sat Jul/29 1972 (17d)
+# Teams      10
+# Matches    25
+
+[Wed Jul 12]
+  Malaysia - Sri Lanka  4-1   @ Kuala Lumpur, Malaysia
+  Japan - Cambodia  4-1   @ Kuala Lumpur, Malaysia
+[Thu Jul 13]
+  Indonesia - Singapore  0-0   @ Kuala Lumpur, Malaysia
+[Fri Jul 14]
+  Malaysia - Philippines  1-0   @ Kuala Lumpur, Malaysia
+[Sat Jul 15]
+  Hong Kong - South Korea  0-0   @ Kuala Lumpur, Malaysia
+  Singapore - Thailand  0-2   @ Kuala Lumpur, Malaysia
+[Sun Jul 16]
+  Cambodia - Philippines  2-2   @ Kuala Lumpur, Malaysia
+  Japan - Sri Lanka  5-0   @ Ipoh, Malaysia
+[Mon Jul 17]
+  Hong Kong - Singapore  4-1   @ Kuala Lumpur, Malaysia
+  South Korea - Thailand  2-0   @ Kuala Lumpur, Malaysia
+[Tue Jul 18]
+  Japan - Philippines  5-1   @ Kuala Lumpur, Malaysia
+[Wed Jul 19]
+  Indonesia - Thailand  3-2   @ Kuala Lumpur, Malaysia
+  Malaysia - Cambodia  6-1   @ Ipoh, Malaysia
+  South Korea - Singapore  4-1   @ Ipoh, Malaysia
+[Thu Jul 20]
+  Philippines - Sri Lanka  4-1   @ Kuala Lumpur, Malaysia
+[Fri Jul 21]
+  Hong Kong - Indonesia  1-0   @ Kuala Lumpur, Malaysia
+[Sat Jul 22]
+  Cambodia - Sri Lanka  6-1   @ Kuala Lumpur, Malaysia
+  Malaysia - Japan  3-1   @ Kuala Lumpur, Malaysia
+[Sun Jul 23]
+  Hong Kong - Thailand  2-2   @ Ipoh, Malaysia
+  Indonesia - South Korea  0-2   @ Kuala Lumpur, Malaysia
+[Tue Jul 25]
+  Singapore - Sri Lanka  6-1   @ Kuala Lumpur, Malaysia
+[Wed Jul 26]
+  Japan - South Korea  0-3   @ Kuala Lumpur, Malaysia
+[Fri Jul 28]
+  Cambodia - Hong Kong  1-0   @ Kuala Lumpur, Malaysia
+[Sat Jul 29]
+  Philippines - Thailand  0-4   @ Kuala Lumpur, Malaysia
+  Malaysia - South Korea  1-2   @ Kuala Lumpur, Malaysia
+

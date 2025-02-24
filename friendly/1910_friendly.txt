@@ -1,0 +1,42 @@
+= Friendly 1910
+
+# Date       Sun Mar/13 - Sun Nov/6 1910 (238d)
+# Teams      15
+# Matches    19
+
+[Sun Mar 13]
+  Belgium - Netherlands  3-2   @ Antwerp, Belgium
+[Sun Apr 3]
+  France - Belgium  0-4   @ Gentilly, France
+  Switzerland - Germany  2-3   @ Basel, Switzerland
+[Sun Apr 10]
+  Netherlands - Belgium  7-0   @ Haarlem, Netherlands
+[Sun Apr 24]
+  Netherlands - Germany  4-2   @ Arnhem, Netherlands
+[Sun May 1]
+  Austria - Hungary  2-1   @ Vienna, Austria
+[Sun May 15]
+  Italy - France  6-2   @ Milan, Italy
+[Mon May 16]
+  Germany - Belgium  0-3   @ Duisburg, Germany
+[Thu May 26]
+  Hungary - Italy  6-1   @ Budapest, Hungary
+[Fri May 27]
+  Argentina - Chile  3-1   @ Buenos Aires, Argentina
+[Sun May 29]
+  Chile - Uruguay  0-3   @ Buenos Aires, Argentina
+[Sun Jun 5]
+  Argentina - Chile  5-1   @ Buenos Aires, Argentina
+[Sun Jun 12]
+  Argentina - Uruguay  4-1   @ Buenos Aires, Argentina
+[Sun Sep 11]
+  Chile - Argentina  0-3   @ Viña del Mar, Chile
+  Norway - Sweden  0-4   @ Kristiania, Norway
+[Sun Oct 16]
+  Germany - Netherlands  1-2   @ Kleve, Germany
+  Russia - Czechoslovakia  5-4   @ Saint Petersburg, Russia
+[Sun Oct 23]
+  Russia - Czechoslovakia  1-0   @ Moscow, Russia
+[Sun Nov 6]
+  Hungary - Austria  3-0   @ Budapest, Hungary
+

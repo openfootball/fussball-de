@@ -1,0 +1,18 @@
+= SAFF Cup 1995
+
+# Date       Sat Mar/25 - Sun Apr/2 1995 (8d)
+# Teams      5
+# Matches    7
+
+[Sat Mar 25]
+  Nepal - Bangladesh  0-2   @ Colombo, Sri Lanka
+  Pakistan - Bangladesh  1-0   @ Colombo, Sri Lanka
+[Wed Mar 29]
+  Nepal - Pakistan  2-0   @ Colombo, Sri Lanka
+  Sri Lanka - India  2-2   @ Colombo, Sri Lanka
+[Fri Mar 31]
+  India - Bangladesh  0-0   @ Colombo, Sri Lanka   [India wins on penalties]
+  Sri Lanka - Nepal  2-1   @ Colombo, Sri Lanka
+[Sun Apr 2]
+  Sri Lanka - India  1-0   @ Colombo, Sri Lanka
+

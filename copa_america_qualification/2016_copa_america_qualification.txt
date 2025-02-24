@@ -1,0 +1,10 @@
+= Copa América qualification 2016
+
+# Date       Fri Jan/8 - Fri Jan/8 2016 (0d)
+# Teams      4
+# Matches    2
+
+[Fri Jan 8]
+  Trinidad and Tobago - Haiti  0-1   @ Panama City, Panama
+  Panama - Cuba  4-0   @ Panama City, Panama
+

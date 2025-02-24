@@ -1,0 +1,13 @@
+= Cyprus International Tournament 2005
+
+# Date       Tue Feb/8 - Wed Feb/9 2005 (1d)
+# Teams      4
+# Matches    4
+
+[Tue Feb 8]
+  Cyprus - Austria  1-1   @ Limassol, Cyprus   [Cyprus wins on penalties]
+  Latvia - Finland  1-2   @ Nicosia, Cyprus
+[Wed Feb 9]
+  Austria - Latvia  1-1   @ Limassol, Cyprus   [Latvia wins on penalties]
+  Cyprus - Finland  1-2   @ Nicosia, Cyprus
+

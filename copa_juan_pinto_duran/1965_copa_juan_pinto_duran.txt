@@ -1,0 +1,11 @@
+= Copa Juan Pinto Durán 1965
+
+# Date       Sun May/9 - Sun May/16 1965 (7d)
+# Teams      2
+# Matches    2
+
+[Sun May 9]
+  Chile - Uruguay  0-0   @ Santiago, Chile
+[Sun May 16]
+  Uruguay - Chile  1-1   @ Montevideo, Uruguay
+

@@ -1,0 +1,20 @@
+= Merdeka Tournament 2007
+
+# Date       Mon Aug/20 - Mon Aug/27 2007 (7d)
+# Teams      6
+# Matches    7
+
+[Mon Aug 20]
+  Myanmar - Lesotho  1-0   @ Petaling Jaya, Malaysia
+[Tue Aug 21]
+  Singapore - Zimbabwe  4-2   @ Petaling Jaya, Malaysia
+[Wed Aug 22]
+  Lesotho - Laos  3-1   @ Petaling Jaya, Malaysia
+[Thu Aug 23]
+  Singapore - Bangladesh  4-2   @ Petaling Jaya, Malaysia
+[Sat Aug 25]
+  Zimbabwe - Bangladesh  2-1   @ Petaling Jaya, Malaysia
+  Myanmar - Laos  1-0   @ Shah Alam, Malaysia
+[Mon Aug 27]
+  Zimbabwe - Myanmar  1-3   @ Petaling Jaya, Malaysia
+

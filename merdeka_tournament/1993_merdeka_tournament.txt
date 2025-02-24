@@ -1,0 +1,15 @@
+= Merdeka Tournament 1993
+
+# Date       Fri Feb/5 - Tue Feb/9 1993 (4d)
+# Teams      5
+# Matches    4
+
+[Fri Feb 5]
+  Malaysia - Singapore  2-1   @ Kuala Lumpur, Malaysia
+[Sat Feb 6]
+  Ghana - Indonesia  2-0   @ Kuala Lumpur, Malaysia
+[Sun Feb 7]
+  Malaysia - Thailand  1-1   @ Kuala Lumpur, Malaysia
+[Tue Feb 9]
+  Singapore - Thailand  1-1   @ Kuala Lumpur, Malaysia
+

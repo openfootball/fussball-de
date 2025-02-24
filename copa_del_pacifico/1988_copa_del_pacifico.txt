@@ -1,0 +1,11 @@
+= Copa del Pacífico 1988
+
+# Date       Tue Oct/25 - Wed Nov/23 1988 (29d)
+# Teams      2
+# Matches    2
+
+[Tue Oct 25]
+  Chile - Peru  2-0   @ Arica, Chile
+[Wed Nov 23]
+  Peru - Chile  1-1   @ Lima, Peru
+

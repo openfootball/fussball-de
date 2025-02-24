@@ -1,0 +1,28 @@
+= Pacific Mini Games 2017
+
+# Date       Sat Dec/2 - Fri Dec/15 2017 (13d)
+# Teams      6
+# Matches    15
+
+[Sat Dec 2]
+  Fiji - Tuvalu  8-0   @ Port Vila, Vanuatu
+  Tonga - Solomon Islands  0-8   @ Port Vila, Vanuatu
+  Vanuatu - New Caledonia  2-1   @ Port Vila, Vanuatu
+[Tue Dec 5]
+  Tuvalu - New Caledonia  2-1   @ Port Vila, Vanuatu
+[Wed Dec 6]
+  Solomon Islands - Fiji  0-0   @ Port Vila, Vanuatu
+  Vanuatu - Tonga  5-0   @ Port Vila, Vanuatu
+[Sat Dec 9]
+  Tonga - New Caledonia  2-4   @ Port Vila, Vanuatu
+  Solomon Islands - Tuvalu  6-0   @ Port Vila, Vanuatu
+  Vanuatu - Fiji  1-1   @ Port Vila, Vanuatu
+[Tue Dec 12]
+  Fiji - Tonga  4-0   @ Port Vila, Vanuatu
+  New Caledonia - Solomon Islands  0-0   @ Port Vila, Vanuatu
+  Vanuatu - Tuvalu  10-0   @ Port Vila, Vanuatu
+[Fri Dec 15]
+  Tuvalu - Tonga  4-3   @ Port Vila, Vanuatu
+  Fiji - New Caledonia  4-1   @ Port Vila, Vanuatu
+  Vanuatu - Solomon Islands  3-2   @ Port Vila, Vanuatu
+

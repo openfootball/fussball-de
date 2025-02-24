@@ -1,0 +1,15 @@
+= Korea Cup 1974
+
+# Date       Mon May/13 - Mon May/20 1974 (7d)
+# Teams      4
+# Matches    4
+
+[Mon May 13]
+  South Korea - Cambodia  0-1   @ Seoul, South Korea
+[Thu May 16]
+  Myanmar - Thailand  2-1   @ Seoul, South Korea
+[Sat May 18]
+  South Korea - Myanmar  3-0   @ Seoul, South Korea
+[Mon May 20]
+  Myanmar - Cambodia  6-0   @ Seoul, South Korea
+

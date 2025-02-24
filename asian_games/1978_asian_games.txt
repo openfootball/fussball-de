@@ -1,0 +1,49 @@
+= Asian Games 1978
+
+# Date       Sun Dec/10 - Wed Dec/20 1978 (10d)
+# Teams      14
+# Matches    32
+
+[Sun Dec 10]
+  India - Malaysia  0-1   @ Bangkok, Thailand
+  Iraq - Qatar  2-1   @ Bangkok, Thailand
+  China PR - Saudi Arabia  1-0   @ Bangkok, Thailand
+[Mon Dec 11]
+  Bahrain - South Korea  1-5   @ Bangkok, Thailand
+  Japan - Kuwait  0-2   @ Bangkok, Thailand
+  Thailand - Myanmar  2-1   @ Bangkok, Thailand
+[Tue Dec 12]
+  Bangladesh - Malaysia  0-1   @ Bangkok, Thailand
+  Qatar - Saudi Arabia  2-2   @ Bangkok, Thailand
+  China PR - Iraq  0-2   @ Bangkok, Thailand
+[Wed Dec 13]
+  Bahrain - Japan  0-4   @ Bangkok, Thailand
+  South Korea - Kuwait  2-0   @ Bangkok, Thailand
+  Myanmar - North Korea  0-3   @ Bangkok, Thailand
+[Thu Dec 14]
+  Bangladesh - India  0-3   @ Bangkok, Thailand
+  China PR - Qatar  3-0   @ Bangkok, Thailand
+  Iraq - Saudi Arabia  1-1   @ Bangkok, Thailand
+[Fri Dec 15]
+  Japan - South Korea  1-3   @ Bangkok, Thailand
+  Bahrain - Kuwait  0-3   @ Bangkok, Thailand
+  Thailand - North Korea  0-3   @ Bangkok, Thailand
+[Sun Dec 17]
+  India - Kuwait  1-6   @ Bangkok, Thailand
+  Iraq - North Korea  0-1   @ Bangkok, Thailand
+  China PR - South Korea  0-1   @ Bangkok, Thailand
+  Thailand - Malaysia  2-1   @ Bangkok, Thailand
+[Mon Dec 18]
+  Iraq - Kuwait  3-0   @ Bangkok, Thailand
+  India - North Korea  1-3   @ Bangkok, Thailand
+  Thailand - China PR  1-4   @ Bangkok, Thailand
+  Malaysia - South Korea  0-1   @ Bangkok, Thailand
+[Tue Dec 19]
+  India - Iraq  0-3   @ Bangkok, Thailand
+  North Korea - Kuwait  2-2   @ Bangkok, Thailand
+  China PR - Malaysia  7-1   @ Bangkok, Thailand
+  Thailand - South Korea  1-3   @ Bangkok, Thailand
+[Wed Dec 20]
+  Iraq - China PR  0-1   @ Bangkok, Thailand
+  North Korea - South Korea  0-0   @ Bangkok, Thailand
+

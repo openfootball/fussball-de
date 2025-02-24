@@ -1,0 +1,19 @@
+= Gold Cup qualification 2021
+
+# Date       Fri Jul/2 - Tue Jul/6 2021 (4d)
+# Teams      12
+# Matches    9
+
+[Fri Jul 2]
+  Haiti - Saint Vincent and the Grenadines  6-1   @ Fort Lauderdale, United States
+  Trinidad and Tobago - Montserrat  6-1   @ Fort Lauderdale, United States
+  Bermuda - Barbados  8-1   @ Fort Lauderdale, United States
+[Sat Jul 3]
+  Guatemala - Guyana  4-0   @ Fort Lauderdale, United States
+  Cuba - French Guiana  0-3   @ Fort Lauderdale, United States
+  Guadeloupe - Bahamas  2-0   @ Fort Lauderdale, United States
+[Tue Jul 6]
+  Haiti - Bermuda  4-1   @ Fort Lauderdale, United States
+  Guatemala - Guadeloupe  1-1   @ Fort Lauderdale, United States   [Guadeloupe wins on penalties]
+  Trinidad and Tobago - French Guiana  1-1   @ Fort Lauderdale, United States   [Trinidad and Tobago wins on penalties]
+

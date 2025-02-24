@@ -1,0 +1,20 @@
+= CCCF Championship 1957
+
+# Date       Tue Aug/13 - Sun Aug/25 1957 (12d)
+# Teams      5
+# Matches    7
+
+[Tue Aug 13]
+  Curaçao - Haiti  1-3   @ Willemstad, Curaçao
+[Wed Aug 14]
+  Cuba - Panama  0-1   @ Willemstad, Curaçao
+[Sun Aug 18]
+  Curaçao - Cuba  2-0   @ Willemstad, Curaçao
+[Wed Aug 21]
+  Cuba - Honduras  0-2   @ Willemstad, Curaçao
+  Curaçao - Panama  3-0   @ Willemstad, Curaçao
+[Fri Aug 23]
+  Cuba - Haiti  1-6   @ Willemstad, Curaçao
+[Sun Aug 25]
+  Curaçao - Honduras  1-1   @ Willemstad, Curaçao
+

@@ -1,0 +1,20 @@
+= Cyprus International Tournament 2004
+
+# Date       Wed Feb/18 - Sat Feb/21 2004 (3d)
+# Teams      8
+# Matches    10
+
+[Wed Feb 18]
+  Cyprus - Belarus  0-2   @ Achna, Cyprus
+  Hungary - Armenia  2-0   @ Paphos, Cyprus
+  Latvia - Kazakhstan  3-1   @ Larnaca, Cyprus
+  Romania - Georgia  3-0   @ Larnaca, Cyprus
+[Thu Feb 19]
+  Cyprus - Georgia  3-1   @ Nicosia, Cyprus
+  Kazakhstan - Armenia  3-3   @ Paphos, Cyprus   [Kazakhstan wins on penalties]
+  Latvia - Hungary  1-2   @ Limassol, Cyprus
+[Sat Feb 21]
+  Belarus - Latvia  4-1   @ Larnaca, Cyprus
+  Cyprus - Kazakhstan  2-1   @ Limassol, Cyprus
+  Georgia - Armenia  0-2   @ Nicosia, Cyprus
+

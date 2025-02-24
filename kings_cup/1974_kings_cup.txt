@@ -1,0 +1,31 @@
+= King's Cup 1974
+
+# Date       Tue Dec/10 - Fri Dec/20 1974 (10d)
+# Teams      7
+# Matches    15
+
+[Tue Dec 10]
+  Laos - Singapore  0-2   @ Bangkok, Thailand
+  Thailand - Malaysia  0-2   @ Bangkok, Thailand
+[Wed Dec 11]
+  Cambodia - Vietnam Republic  3-2   @ Bangkok, Thailand
+[Thu Dec 12]
+  Malaysia - Singapore  0-0   @ Bangkok, Thailand
+  Thailand - Laos  6-1   @ Bangkok, Thailand
+[Fri Dec 13]
+  Cambodia - South Korea  1-2   @ Bangkok, Thailand
+[Sat Dec 14]
+  Laos - Malaysia  2-2   @ Bangkok, Thailand
+  Thailand - Singapore  2-1   @ Bangkok, Thailand
+[Sun Dec 15]
+  South Korea - Vietnam Republic  2-2   @ Bangkok, Thailand
+[Mon Dec 16]
+  Cambodia - Vietnam Republic  2-0   @ Bangkok, Thailand
+  Thailand - Malaysia  4-1   @ Bangkok, Thailand
+[Wed Dec 18]
+  South Korea - Malaysia  0-0   @ Bangkok, Thailand   [South Korea wins on penalties]
+  Thailand - Cambodia  1-0   @ Bangkok, Thailand
+[Fri Dec 20]
+  Cambodia - Malaysia  0-3   @ Bangkok, Thailand
+  Thailand - South Korea  1-3   @ Bangkok, Thailand
+

@@ -1,0 +1,11 @@
+= Copa Rio Branco 1940
+
+# Date       Sun Mar/24 - Sun Mar/31 1940 (7d)
+# Teams      2
+# Matches    2
+
+[Sun Mar 24]
+  Brazil - Uruguay  3-4   @ Rio de Janeiro, Brazil
+[Sun Mar 31]
+  Brazil - Uruguay  1-1   @ Rio de Janeiro, Brazil
+

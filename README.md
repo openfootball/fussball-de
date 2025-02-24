@@ -10,16 +10,15 @@ using the Football.TXT format.
 
 
 
-<!--
+
 Tip - You can use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
 
-Let's try to convert the English Premier League 2024/25
-in the Football.TXT format (see [`england/2024-25/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2024-25/1-premierleague.txt)) to JSON:
+Let's try to convert the FIFI Wild Cup 2006
+in the Football.TXT format (see [`fifi_wild_cup/2006_fifi_wild_cup.txt`](https://github.com/openfootball/internationals/blob/master/fifi_wild_cup/2006_fifi_wild_cup.txt)) to JSON:
 
 ```
-$ fbtxt2json england/2024-25/1-premierleague.txt -o en.1.json
+$ fbtxt2json internationals/fifi_wild_cup/2006_fifi-wild_cup.txt -o wild_cup.json
 ```
 
--->
 
 

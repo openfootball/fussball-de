@@ -1,0 +1,11 @@
+= Copa Juan Pinto Durán 1975
+
+# Date       Wed Jun/4 - Wed Jun/25 1975 (21d)
+# Teams      2
+# Matches    2
+
+[Wed Jun 4]
+  Uruguay - Chile  1-0   @ Montevideo, Uruguay
+[Wed Jun 25]
+  Chile - Uruguay  1-3   @ Santiago, Chile
+

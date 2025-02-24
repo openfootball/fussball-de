@@ -1,0 +1,27 @@
+= Amílcar Cabral Cup 1986
+
+# Date       Sat Feb/1 - Mon Feb/10 1986 (9d)
+# Teams      7
+# Matches    12
+
+[Sat Feb 1]
+  Senegal - Guinea  2-1   @ Dakar, Senegal
+[Sun Feb 2]
+  Gambia - Guinea-Bissau  3-0   @ Dakar, Senegal
+  Mauritania - Sierra Leone  0-1   @ Dakar, Senegal
+[Mon Feb 3]
+  Guinea - Mali  1-1   @ Dakar, Senegal
+[Tue Feb 4]
+  Gambia - Sierra Leone  1-2   @ Dakar, Senegal
+  Guinea-Bissau - Mauritania  1-0   @ Dakar, Senegal
+[Wed Feb 5]
+  Senegal - Mali  1-0   @ Dakar, Senegal
+[Thu Feb 6]
+  Gambia - Mauritania  3-1   @ Dakar, Senegal
+  Guinea-Bissau - Sierra Leone  2-3   @ Dakar, Senegal
+[Sat Feb 8]
+  Guinea - Sierra Leone  1-2   @ Dakar, Senegal
+  Senegal - Gambia  1-0   @ Dakar, Senegal
+[Mon Feb 10]
+  Senegal - Sierra Leone  3-1   @ Dakar, Senegal
+

@@ -1,0 +1,28 @@
+= Central European International Cup 1931
+
+# Date       Sun Feb/22 - Sun Dec/13 1931 (294d)
+# Teams      5
+# Matches    11
+
+[Sun Feb 22]
+  Italy - Austria  2-1   @ Milan, Italy
+[Sun Mar 22]
+  Czechoslovakia - Hungary  3-3   @ Prague, Czechoslovakia
+[Sun Mar 29]
+  Switzerland - Italy  1-1   @ Berne, Switzerland
+[Sun Apr 12]
+  Austria - Czechoslovakia  2-1   @ Vienna, Austria
+  Hungary - Switzerland  6-2   @ Budapest, Hungary
+[Sun May 3]
+  Austria - Hungary  0-0   @ Vienna, Austria
+[Sat Jun 13]
+  Czechoslovakia - Switzerland  7-3   @ Prague, Czechoslovakia
+[Sun Oct 4]
+  Hungary - Austria  2-2   @ Budapest, Hungary
+[Sun Nov 15]
+  Italy - Czechoslovakia  2-2   @ Rome, Italy
+[Sun Nov 29]
+  Switzerland - Austria  1-8   @ Basel, Switzerland
+[Sun Dec 13]
+  Italy - Hungary  3-2   @ Turin, Italy
+

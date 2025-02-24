@@ -1,0 +1,185 @@
+= UEFA Nations League 2024
+
+# Date       Thu Mar/21 - Tue Nov/19 2024 (243d)
+# Teams      54
+# Matches    158
+
+[Thu Mar 21]
+  Gibraltar - Lithuania  0-1   @ Faro-Loulé, Portugal
+[Tue Mar 26]
+  Lithuania - Gibraltar  1-0   @ Kaunas, Lithuania
+[Thu Sep 5]
+  Portugal - Croatia  2-1   @ Lisbon, Portugal
+  Scotland - Poland  2-3   @ Glasgow, Scotland
+  Denmark - Switzerland  2-0   @ Copenhagen, Denmark
+  Serbia - Spain  0-0   @ Belgrade, Serbia
+  Azerbaijan - Sweden  1-3   @ Baku, Azerbaijan
+  Estonia - Slovakia  0-1   @ Tallinn, Estonia
+  Northern Ireland - Luxembourg  2-0   @ Belfast, Northern Ireland
+  Belarus - Bulgaria  0-0   @ Zalaegerszeg, Hungary
+  San Marino - Liechtenstein  1-0   @ Serravalle, San Marino
+[Fri Sep 6]
+  Belgium - Israel  3-1   @ Debrecen, Hungary
+  France - Italy  1-3   @ Paris, France
+  Kazakhstan - Norway  0-0   @ Almaty, Kazakhstan
+  Slovenia - Austria  1-1   @ Ljubljana, Slovenia
+  Iceland - Montenegro  2-0   @ Reykjavík, Iceland
+  Wales - Turkey  0-0   @ Cardiff, Wales
+  Kosovo - Romania  0-3   @ Pristina, Kosovo
+  Lithuania - Cyprus  0-1   @ Kaunas, Lithuania
+[Sat Sep 7]
+  Germany - Hungary  5-0   @ Düsseldorf, Germany
+  Netherlands - Bosnia and Herzegovina  5-2   @ Eindhoven, Netherlands
+  Georgia - Czech Republic  4-1   @ Tbilisi, Georgia
+  Ukraine - Albania  1-2   @ Prague, Czech Republic
+  Republic of Ireland - England  0-2   @ Dublin, Republic of Ireland
+  Greece - Finland  3-0   @ Piraeus, Greece
+  Faroe Islands - North Macedonia  1-1   @ Toftir, Faroe Islands
+  Armenia - Latvia  4-1   @ Yerevan, Armenia
+  Moldova - Malta  2-0   @ Chișinău, Moldova
+[Sun Sep 8]
+  Portugal - Scotland  2-1   @ Lisbon, Portugal
+  Croatia - Poland  1-0   @ Osijek, Croatia
+  Denmark - Serbia  2-0   @ Copenhagen, Denmark
+  Switzerland - Spain  1-4   @ Geneva, Switzerland
+  Slovakia - Azerbaijan  2-0   @ Košice, Slovakia
+  Sweden - Estonia  3-0   @ Stockholm, Sweden
+  Luxembourg - Belarus  0-1   @ Luxembourg, Luxembourg
+  Bulgaria - Northern Ireland  1-0   @ Plovdiv, Bulgaria
+  Gibraltar - Liechtenstein  2-2   @ Gibraltar, Gibraltar
+[Mon Sep 9]
+  France - Belgium  2-0   @ Décines-Charpieu, France
+  Israel - Italy  1-2   @ Budapest, Hungary
+  Norway - Austria  2-1   @ Oslo, Norway
+  Slovenia - Kazakhstan  3-0   @ Ljubljana, Slovenia
+  Montenegro - Wales  1-2   @ Nikšić, Montenegro
+  Turkey - Iceland  3-1   @ Izmir, Turkey
+  Cyprus - Kosovo  0-4   @ Larnaca, Cyprus
+  Romania - Lithuania  3-1   @ Bucharest, Romania
+[Tue Sep 10]
+  Hungary - Bosnia and Herzegovina  0-0   @ Budapest, Hungary
+  Netherlands - Germany  2-2   @ Amsterdam, Netherlands
+  Albania - Georgia  0-1   @ Tirana, Albania
+  Czech Republic - Ukraine  3-2   @ Prague, Czech Republic
+  England - Finland  2-0   @ London, England
+  Republic of Ireland - Greece  0-2   @ Dublin, Republic of Ireland
+  Latvia - Faroe Islands  1-0   @ Riga, Latvia
+  North Macedonia - Armenia  2-0   @ Skopje, North Macedonia
+  Andorra - Malta  0-1   @ Andorra la Vella, Andorra
+[Thu Oct 10]
+  Israel - France  1-4   @ Budapest, Hungary
+  Italy - Belgium  2-2   @ Rome, Italy
+  England - Greece  1-2   @ London, England
+  Finland - Republic of Ireland  1-2   @ Helsinki, Finland
+  Austria - Kazakhstan  4-0   @ Salzburg, Austria
+  Norway - Slovenia  3-0   @ Oslo, Norway
+  Latvia - North Macedonia  0-3   @ Riga, Latvia
+  Faroe Islands - Armenia  2-2   @ Tórshavn, Faroe Islands
+  Gibraltar - San Marino  1-0   @ Gibraltar, Gibraltar
+  Moldova - Andorra  2-0   @ Chișinău, Moldova
+[Fri Oct 11]
+  Bosnia and Herzegovina - Germany  1-2   @ Zenica, Bosnia and Herzegovina
+  Hungary - Netherlands  1-1   @ Budapest, Hungary
+  Czech Republic - Albania  2-0   @ Prague, Czech Republic
+  Ukraine - Georgia  1-0   @ Poznań, Poland
+  Iceland - Wales  2-2   @ Reykjavík, Iceland
+  Turkey - Montenegro  1-0   @ Tekkeköy, Turkey
+  Estonia - Azerbaijan  3-1   @ Tallinn, Estonia
+  Slovakia - Sweden  2-2   @ Bratislava, Slovakia
+[Sat Oct 12]
+  Croatia - Scotland  2-1   @ Zagreb, Croatia
+  Poland - Portugal  1-3   @ Warsaw, Poland
+  Serbia - Switzerland  2-0   @ Leskovac, Serbia
+  Spain - Denmark  1-0   @ Murcia, Spain
+  Lithuania - Kosovo  1-2   @ Kaunas, Lithuania
+  Cyprus - Romania  0-3   @ Larnaca, Cyprus
+  Bulgaria - Luxembourg  0-0   @ Plovdiv, Bulgaria
+  Belarus - Northern Ireland  0-0   @ Zalaegerszeg, Hungary
+[Sun Oct 13]
+  Finland - England  1-3   @ Helsinki, Finland
+  Greece - Republic of Ireland  2-0   @ Piraeus, Greece
+  Kazakhstan - Slovenia  0-1   @ Astana, Kazakhstan
+  Austria - Norway  5-1   @ Linz, Austria
+  Faroe Islands - Latvia  1-1   @ Tórshavn, Faroe Islands
+  Armenia - North Macedonia  0-2   @ Yerevan, Armenia
+  Liechtenstein - Gibraltar  0-0   @ Vaduz, Liechtenstein
+  Malta - Moldova  1-0   @ Ta' Qali, Malta
+[Mon Oct 14]
+  Belgium - France  1-2   @ Leuven, Belgium
+  Italy - Israel  4-1   @ Udine, Italy
+  Bosnia and Herzegovina - Hungary  0-2   @ Zenica, Bosnia and Herzegovina
+  Germany - Netherlands  1-0   @ Munich, Germany
+  Georgia - Albania  0-1   @ Tbilisi, Georgia
+  Ukraine - Czech Republic  1-1   @ Wrocław, Poland
+  Iceland - Turkey  2-4   @ Reykjavík, Iceland
+  Wales - Montenegro  1-0   @ Cardiff, Wales
+  Azerbaijan - Slovakia  1-3   @ Baku, Azerbaijan
+  Estonia - Sweden  0-3   @ Tallinn, Estonia
+[Tue Oct 15]
+  Scotland - Portugal  0-0   @ Glasgow, Scotland
+  Poland - Croatia  3-3   @ Warsaw, Poland
+  Spain - Serbia  3-0   @ Cordoba, Spain
+  Switzerland - Denmark  2-2   @ St. Gallen, Switzerland
+  Kosovo - Cyprus  3-0   @ Pristina, Kosovo
+  Lithuania - Romania  1-2   @ Kaunas, Lithuania
+  Northern Ireland - Bulgaria  5-0   @ Belfast, Northern Ireland
+  Belarus - Luxembourg  1-1   @ Zalaegerszeg, Hungary
+[Thu Nov 14]
+  Belgium - Italy  0-1   @ Brussels, Belgium
+  France - Israel  0-0   @ Paris, France
+  Republic of Ireland - Finland  1-0   @ Dublin, Republic of Ireland
+  Greece - England  0-3   @ Athens, Greece
+  Kazakhstan - Austria  0-2   @ Almaty, Kazakhstan
+  Slovenia - Norway  1-4   @ Ljubljana, Slovenia
+  North Macedonia - Latvia  1-0   @ Skopje, North Macedonia
+  Armenia - Faroe Islands  0-1   @ Yerevan, Armenia
+[Fri Nov 15]
+  Portugal - Poland  5-1   @ Porto, Portugal
+  Scotland - Croatia  1-0   @ Glasgow, Scotland
+  Denmark - Spain  1-2   @ Copenhagen, Denmark
+  Switzerland - Serbia  1-1   @ Zürich, Switzerland
+  Cyprus - Lithuania  2-1   @ Larnaca, Cyprus
+  Romania - Kosovo  0-0   @ Bucharest, Romania
+  Northern Ireland - Belarus  2-0   @ Belfast, Northern Ireland
+  Luxembourg - Bulgaria  0-1   @ Luxembourg, Luxembourg
+  San Marino - Gibraltar  1-1   @ Serravalle, San Marino
+[Sat Nov 16]
+  Germany - Bosnia and Herzegovina  7-0   @ Freiburg, Germany
+  Netherlands - Hungary  4-0   @ Amsterdam, Netherlands
+  Albania - Czech Republic  0-0   @ Tirana, Albania
+  Georgia - Ukraine  1-1   @ Batumi, Georgia
+  Montenegro - Iceland  0-2   @ Nikšić, Montenegro
+  Turkey - Wales  0-0   @ Kayseri, Turkey
+  Azerbaijan - Estonia  0-0   @ Gabala, Azerbaijan
+  Sweden - Slovakia  2-1   @ Solna, Sweden
+  Andorra - Moldova  0-1   @ Andorra la Vella, Andorra
+[Sun Nov 17]
+  Israel - Belgium  1-0   @ Budapest, Hungary
+  Italy - France  1-3   @ Milan, Italy
+  England - Republic of Ireland  5-0   @ London, England
+  Finland - Greece  0-2   @ Helsinki, Finland
+  Norway - Kazakhstan  5-0   @ Oslo, Norway
+  Austria - Slovenia  1-1   @ Vienna, Austria
+  North Macedonia - Faroe Islands  1-0   @ Skopje, North Macedonia
+  Latvia - Armenia  1-2   @ Riga, Latvia
+[Mon Nov 18]
+  Croatia - Portugal  1-1   @ Split, Croatia
+  Poland - Scotland  1-2   @ Warsaw, Poland
+  Serbia - Denmark  0-0   @ Leskovac, Serbia
+  Spain - Switzerland  3-2   @ Santa Cruz de Tenerife, Spain
+  Kosovo - Lithuania  1-0   @ Pristina, Kosovo
+  Romania - Cyprus  4-1   @ Bucharest, Romania
+  Luxembourg - Northern Ireland  2-2   @ Luxembourg, Luxembourg
+  Bulgaria - Belarus  1-1   @ Sofia, Bulgaria
+  Liechtenstein - San Marino  1-3   @ Vaduz, Liechtenstein
+[Tue Nov 19]
+  Bosnia and Herzegovina - Netherlands  1-1   @ Zenica, Bosnia and Herzegovina
+  Hungary - Germany  1-1   @ Budapest, Hungary
+  Albania - Ukraine  1-2   @ Tirana, Albania
+  Czech Republic - Georgia  2-1   @ Olomouc, Czech Republic
+  Wales - Iceland  4-1   @ Cardiff, Wales
+  Montenegro - Turkey  3-1   @ Podgorica, Montenegro
+  Slovakia - Estonia  1-0   @ Trnava, Slovakia
+  Sweden - Azerbaijan  6-0   @ Solna, Sweden
+  Malta - Andorra  0-0   @ Ta' Qali, Malta
+

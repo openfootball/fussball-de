@@ -1,0 +1,13 @@
+= Dragon Cup 2011
+
+# Date       Fri Sep/30 - Tue Oct/4 2011 (4d)
+# Teams      3
+# Matches    3
+
+[Fri Sep 30]
+  Hong Kong - Philippines  3-3   @ Kaohsiung, Taiwan
+[Sun Oct 2]
+  Hong Kong - Macau  5-1   @ Kaohsiung, Taiwan
+[Tue Oct 4]
+  Philippines - Macau  2-0   @ Kaohsiung, Taiwan
+

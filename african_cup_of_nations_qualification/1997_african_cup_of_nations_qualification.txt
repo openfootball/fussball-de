@@ -1,0 +1,68 @@
+= African Cup of Nations qualification 1997
+
+# Date       Sat Jan/25 - Sun Jul/27 1997 (183d)
+# Teams      26
+# Matches    51
+
+[Sat Jan 25]
+  Malawi - Zambia  0-2   @ Blantyre, Malawi
+[Sun Jan 26]
+  Cameroon - Namibia  4-0   @ Yaoundé, Cameroon
+  Guinea - Tunisia  1-0   @ Conakry, Guinea
+  Ivory Coast - Benin  1-0   @ Bouaké, Ivory Coast
+  Liberia - Togo  1-2   @ Accra, Ghana
+  Mali - Algeria  1-0   @ Bamako, Mali
+  Mozambique - Mauritius  3-0   @ Maputo, Mozambique
+  Tanzania - DR Congo  1-2   @ Dar es Salaam, Tanzania
+  Zimbabwe - Ghana  0-0   @ Harare, Zimbabwe
+[Sat Feb 22]
+  Malawi - Mozambique  2-0   @ Blantyre, Malawi
+[Sun Feb 23]
+  Benin - Algeria  1-1   @ Cotonou, Benin
+  Ethiopia - Egypt  1-1   @ Addis Ababa, Ethiopia
+  Guinea - Sierra Leone  1-0   @ Conakry, Guinea
+  Mali - Ivory Coast  1-2   @ Bamako, Mali
+  Mauritius - Zambia  0-0   @ Curepipe, Mauritius
+  Tanzania - Liberia  1-1   @ Dar es Salaam, Tanzania
+  Togo - DR Congo  1-1   @ Lomé, Togo
+  Zimbabwe - Angola  1-0   @ Harare, Zimbabwe
+[Sat May 31]
+  Morocco - Ethiopia  4-0   @ Rabat, Morocco
+[Sat Jun 21]
+  Malawi - Mauritius  3-2   @ Lilongwe, Malawi
+  Morocco - Egypt  1-0   @ Rabat, Morocco
+[Sun Jun 22]
+  Angola - Ghana  1-0   @ Luanda, Angola
+  Cameroon - Gabon  2-2   @ Yaoundé, Cameroon
+  Ivory Coast - Algeria  2-1   @ Bouaké, Ivory Coast
+  Liberia - DR Congo  2-1   @ Monrovia, Liberia
+  Mali - Benin  3-1   @ Bamako, Mali
+  Mozambique - Zambia  2-2   @ Maputo, Mozambique
+  Senegal - Ethiopia  3-0   @ Dakar, Senegal
+  Tanzania - Togo  1-0   @ Arusha, Tanzania
+[Sat Jul 12]
+  Zambia - Malawi  3-1   @ Lusaka, Zambia
+[Sun Jul 13]
+  Algeria - Mali  1-0   @ Algiers, Algeria
+  Benin - Ivory Coast  0-0   @ Cotonou, Benin
+  DR Congo - Tanzania  1-1   @ Kinshasa, DR Congo
+  Egypt - Senegal  2-0   @ Cairo, Egypt
+  Ethiopia - Morocco  0-1   @ Addis Ababa, Ethiopia
+  Gabon - Kenya  1-0   @ Libreville, Gabon
+  Ghana - Zimbabwe  2-1   @ Accra, Ghana
+  Mauritius - Mozambique  1-3   @ Port Louis, Mauritius
+  Togo - Liberia  4-0   @ Lomé, Togo
+  Tunisia - Guinea  1-0   @ Tunis, Tunisia
+[Sun Jul 27]
+  Algeria - Benin  2-0   @ Algiers, Algeria
+  Angola - Zimbabwe  2-1   @ Luanda, Angola
+  Cameroon - Kenya  1-1   @ Yaoundé, Cameroon
+  DR Congo - Togo  1-0   @ Kinshasa, DR Congo
+  Egypt - Ethiopia  8-1   @ Alexandria, Egypt
+  Gabon - Namibia  1-1   @ Libreville, Gabon
+  Ivory Coast - Mali  4-2   @ Bouaké, Ivory Coast
+  Liberia - Tanzania  1-0   @ Monrovia, Liberia
+  Morocco - Senegal  3-0   @ Rabat, Morocco
+  Mozambique - Malawi  2-1   @ Maputo, Mozambique
+  Zambia - Mauritius  1-0   @ Chililabombwe, Zambia
+

@@ -1,0 +1,45 @@
+= African Friendship Games 1963
+
+# Date       Fri Apr/12 - Sat Apr/20 1963 (8d)
+# Teams      17
+# Matches    31
+
+[Fri Apr 12]
+  Senegal - Cameroon  1-0   @ Dakar, Senegal
+  Nigeria - Niger  1-0   @ Dakar, Senegal
+  Madagascar - Benin  1-0   @ Dakar, Senegal
+  Liberia - Chad  2-1   @ Dakar, Senegal
+  France - Gambia  5-1   @ Dakar, Senegal
+  Gabon - Burkina Faso  4-0   @ Dakar, Senegal
+  Congo - Ivory Coast  3-2   @ Dakar, Senegal
+  DR Congo - Mauritania  6-0   @ Dakar, Senegal
+[Sat Apr 13]
+  Tunisia - Ivory Coast  3-1   @ Dakar, Senegal
+  Congo - DR Congo  2-1   @ Dakar, Senegal
+[Sun Apr 14]
+  Senegal - Nigeria  5-1   @ Dakar, Senegal
+  Cameroon - Niger  3-2   @ Dakar, Senegal
+  Benin - Liberia  1-0   @ Dakar, Senegal
+  Madagascar - Chad  2-1   @ Dakar, Senegal
+  France - Gabon  3-0   @ Dakar, Senegal
+  Gambia - Burkina Faso  2-2   @ Dakar, Senegal
+  Ivory Coast - Mauritania  2-0   @ Dakar, Senegal
+  Tunisia - Congo  2-0   @ Dakar, Senegal
+[Mon Apr 15]
+  Tunisia - Mauritania  4-0   @ Dakar, Senegal
+  Ivory Coast - DR Congo  1-0   @ Dakar, Senegal
+[Tue Apr 16]
+  Senegal - Niger  3-1   @ Dakar, Senegal
+  Madagascar - Liberia  3-1   @ Dakar, Senegal
+  Benin - Chad  6-2   @ Dakar, Senegal
+  Gambia - Gabon  2-2   @ Dakar, Senegal
+  France - Burkina Faso  1-0   @ Dakar, Senegal
+  Congo - Mauritania  7-0   @ Dakar, Senegal
+  DR Congo - Tunisia  1-0   @ Dakar, Senegal
+[Thu Apr 18]
+  Tunisia - Madagascar  2-1   @ Dakar, Senegal
+  Senegal - France  2-0   @ Dakar, Senegal
+[Sat Apr 20]
+  France - Madagascar  4-1   @ Dakar, Senegal
+  Senegal - Tunisia  1-1   @ Dakar, Senegal
+

@@ -1,0 +1,61 @@
+= Merdeka Tournament 1970
+
+# Date       Thu Jul/30 - Sun Aug/16 1970 (17d)
+# Teams      12
+# Matches    38
+
+[Thu Jul 30]
+  India - Taiwan  0-1   @ Kuala Lumpur, Malaysia
+  Malaysia - Vietnam Republic  0-0   @ Kuala Lumpur, Malaysia
+[Fri Jul 31]
+  Hong Kong - Japan  2-1   @ Kuala Lumpur, Malaysia
+  South Korea - Thailand  0-0   @ Kuala Lumpur, Malaysia
+[Sat Aug 1]
+  Myanmar - Western Australia  1-0   @ Kuala Lumpur, Malaysia
+  Taiwan - Vietnam Republic  2-1   @ Ipoh, Malaysia
+  Malaysia - India  1-3   @ Ipoh, Malaysia
+  Indonesia - Singapore  3-1   @ Kuala Lumpur, Malaysia
+[Sun Aug 2]
+  Hong Kong - Thailand  2-0   @ Kuala Lumpur, Malaysia
+  Japan - South Korea  1-1   @ Kuala Lumpur, Malaysia
+[Mon Aug 3]
+  Myanmar - India  2-0   @ Kuala Lumpur, Malaysia
+  Vietnam Republic - Western Australia  1-3   @ Kuala Lumpur, Malaysia
+[Tue Aug 4]
+  Malaysia - Taiwan  3-1   @ Kuala Lumpur, Malaysia
+  Hong Kong - Indonesia  1-3   @ George Town, Malaysia
+  Japan - Thailand  0-0   @ Kuala Lumpur, Malaysia
+  South Korea - Singapore  4-0   @ George Town, Malaysia
+[Wed Aug 5]
+  Myanmar - Vietnam Republic  4-2   @ Kuala Lumpur, Malaysia
+  India - Western Australia  2-0   @ Kuala Lumpur, Malaysia
+[Thu Aug 6]
+  Hong Kong - Singapore  3-2   @ Kuala Lumpur, Malaysia
+  Indonesia - South Korea  1-2   @ Kuala Lumpur, Malaysia
+[Fri Aug 7]
+  Myanmar - Taiwan  1-1   @ Kuala Lumpur, Malaysia
+  Malaysia - Western Australia  4-1   @ Kuala Lumpur, Malaysia
+[Sat Aug 8]
+  Indonesia - Japan  3-4   @ Kuala Lumpur, Malaysia
+  Singapore - Thailand  4-5   @ Kuala Lumpur, Malaysia
+[Sun Aug 9]
+  Hong Kong - South Korea  0-0   @ Kuala Lumpur, Malaysia
+  India - Vietnam Republic  2-1   @ Ipoh, Malaysia
+  Taiwan - Western Australia  1-3   @ Ipoh, Malaysia
+  Malaysia - Myanmar  1-2   @ Kuala Lumpur, Malaysia
+[Mon Aug 10]
+  Indonesia - Thailand  6-3   @ Kuala Lumpur, Malaysia
+  Japan - Singapore  4-0   @ Kuala Lumpur, Malaysia
+[Wed Aug 12]
+  Myanmar - Hong Kong  5-0   @ Kuala Lumpur, Malaysia
+  Thailand - Western Australia  2-0   @ Kuala Lumpur, Malaysia
+[Thu Aug 13]
+  India - South Korea  2-3   @ Kuala Lumpur, Malaysia
+  Singapore - Vietnam Republic  0-4   @ Kuala Lumpur, Malaysia
+[Sat Aug 15]
+  Hong Kong - India  2-3   @ Kuala Lumpur, Malaysia
+  Malaysia - Indonesia  4-0   @ Kuala Lumpur, Malaysia
+[Sun Aug 16]
+  Myanmar - South Korea  0-1   @ Kuala Lumpur, Malaysia
+  Japan - Taiwan  3-2   @ Kuala Lumpur, Malaysia
+

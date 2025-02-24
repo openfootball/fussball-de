@@ -1,0 +1,89 @@
+= Friendly 1940
+
+# Date       Sun Jan/28 - Sun Dec/8 1940 (315d)
+# Teams      33
+# Matches    45
+
+[Sun Jan 28]
+  France - Portugal  3-2   @ Paris, France
+[Tue Feb 20]
+  Kenya - Uganda  3-6   @ Nairobi, Kenya
+[Sat Mar 2]
+  Argentina - Chile  4-1   @ San Martín, Argentina
+[Sun Mar 3]
+  Italy - Switzerland  1-1   @ Turin, Italy
+[Sat Mar 9]
+  Argentina - Chile  3-2   @ Buenos Aires, Argentina
+[Tue Mar 12]
+  Uruguay - Chile  3-2   @ Montevideo, Uruguay
+[Sun Mar 17]
+  Belgium - Netherlands  7-1   @ Antwerp, Belgium
+[Sun Mar 31]
+  Hungary - Switzerland  3-0   @ Budapest, Hungary
+  Netherlands - Luxembourg  4-5   @ Rotterdam, Netherlands
+  Romania - Yugoslavia  3-3   @ Bucharest, Romania
+[Tue Apr 2]
+  Croatia - Switzerland  4-0   @ Zagreb, Croatia
+[Sun Apr 7]
+  Germany - Hungary  2-2   @ Berlin, Germany
+[Sun Apr 14]
+  Germany - Yugoslavia  1-2   @ Vienna, Germany
+  Italy - Romania  2-1   @ Rome, Italy
+[Sun Apr 21]
+  Netherlands - Belgium  4-2   @ Amsterdam, Netherlands
+  Switzerland - Croatia  0-1   @ Berne, Switzerland
+[Sat Apr 27]
+  Israel - Lebanon  5-1   @ Tel Aviv, Mandatory Palestine
+[Thu May 2]
+  Hungary - Croatia  1-0   @ Budapest, Hungary
+[Sun May 5]
+  Italy - Germany  3-2   @ Milan, Italy
+[Sun May 19]
+  Hungary - Romania  2-0   @ Budapest, Hungary
+[Thu Jun 6]
+  Bulgaria - Slovakia  1-4   @ Sofia, Bulgaria
+[Fri Jun 7]
+  Japan - Manchukuo  7-0   @ Tokyo, Japan
+[Sun Jun 9]
+  Japan - China PR  6-0   @ Tokyo, Japan
+[Sun Jun 16]
+  Japan - Philippines  1-0   @ Nishinomiya, Japan
+[Sun Jul 14]
+  Germany - Romania  9-3   @ Frankfurt am Main, Germany
+[Thu Jul 18]
+  Estonia - Latvia  2-1   @ Tallinn, Estonia
+  Uruguay - Argentina  3-0   @ Montevideo, Uruguay
+[Sun Aug 11]
+  Lithuania - Estonia  2-0   @ Kaunas, Soviet Union
+[Thu Aug 15]
+  Argentina - Uruguay  5-0   @ Buenos Aires, Argentina
+[Thu Aug 29]
+  Finland - Sweden  2-3   @ Helsinki, Finland
+[Sun Sep 1]
+  Germany - Finland  13-0   @ Leipzig, Germany
+[Sun Sep 15]
+  Slovakia - Germany  0-1   @ Bratislava, Slovakia
+[Sun Sep 22]
+  Sweden - Finland  5-0   @ Solna, Sweden
+  Yugoslavia - Romania  1-2   @ Belgrade, Yugoslavia
+[Sun Sep 29]
+  Hungary - Yugoslavia  0-0   @ Budapest, Hungary
+[Sun Oct 6]
+  Hungary - Germany  2-2   @ Budapest, Hungary
+  Sweden - Denmark  1-1   @ Solna, Sweden
+[Sun Oct 13]
+  Lithuania - Latvia  4-3   @ Kaunas, Soviet Union
+[Sun Oct 20]
+  Denmark - Sweden  3-3   @ Copenhagen, Denmark
+  Germany - Bulgaria  7-3   @ Munich, Germany
+[Sun Nov 3]
+  Yugoslavia - Germany  2-0   @ Zagreb, Yugoslavia
+[Tue Nov 12]
+  Cuba - Puerto Rico  1-1   @ Havana, Cuba
+[Sun Nov 17]
+  Germany - Denmark  1-0   @ Hamburg, Germany
+[Sun Dec 1]
+  Italy - Hungary  1-1   @ Genoa, Italy
+[Sun Dec 8]
+  Croatia - Hungary  1-1   @ Zagreb, Croatia
+

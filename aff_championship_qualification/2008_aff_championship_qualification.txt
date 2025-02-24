@@ -1,0 +1,22 @@
+= AFF Championship qualification 2008
+
+# Date       Fri Oct/17 - Sat Oct/25 2008 (8d)
+# Teams      5
+# Matches    10
+
+[Fri Oct 17]
+  Cambodia - Laos  3-2   @ Phnom Penh, Cambodia
+  Philippines - Timor-Leste  1-0   @ Phnom Penh, Cambodia
+[Sun Oct 19]
+  Brunei - Philippines  1-1   @ Phnom Penh, Cambodia
+  Cambodia - Timor-Leste  2-2   @ Phnom Penh, Cambodia
+[Tue Oct 21]
+  Timor-Leste - Brunei  1-4   @ Phnom Penh, Cambodia
+  Philippines - Laos  1-2   @ Phnom Penh, Cambodia
+[Thu Oct 23]
+  Cambodia - Philippines  2-3   @ Phnom Penh, Cambodia
+  Laos - Brunei  3-2   @ Phnom Penh, Cambodia
+[Sat Oct 25]
+  Cambodia - Brunei  2-1   @ Phnom Penh, Cambodia
+  Laos - Timor-Leste  2-1   @ Phnom Penh, Cambodia
+

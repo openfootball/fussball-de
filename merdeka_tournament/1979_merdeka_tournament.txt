@@ -1,0 +1,32 @@
+= Merdeka Tournament 1979
+
+# Date       Fri Jun/29 - Fri Jul/13 1979 (14d)
+# Teams      6
+# Matches    15
+
+[Fri Jun 29]
+  Malaysia - Japan  1-1   @ Kuala Lumpur, Malaysia
+  Japan - Thailand  2-0   @ Kuala Lumpur, Malaysia
+  Malaysia - Myanmar  4-1   @ Kuala Lumpur, Malaysia
+[Sat Jun 30]
+  Indonesia - Singapore  0-0   @ Kuala Lumpur, Malaysia
+[Sun Jul 1]
+  Malaysia - Thailand  4-2   @ Kuala Lumpur, Malaysia
+  Myanmar - Japan  0-1   @ Kuala Lumpur, Malaysia
+[Tue Jul 3]
+  Myanmar - Thailand  2-0   @ Kuala Lumpur, Malaysia
+[Wed Jul 4]
+  Malaysia - Indonesia  1-1   @ Kuala Lumpur, Malaysia
+[Thu Jul 5]
+  Singapore - Thailand  1-1   @ Kuala Lumpur, Malaysia
+[Sun Jul 8]
+  Indonesia - Thailand  2-1   @ Kuala Lumpur, Malaysia
+[Mon Jul 9]
+  Malaysia - Singapore  3-0   @ Kuala Lumpur, Malaysia
+[Wed Jul 11]
+  Myanmar - Singapore  4-1   @ Kuala Lumpur, Malaysia
+  Indonesia - Japan  0-0   @ Kuala Lumpur, Malaysia
+[Fri Jul 13]
+  Myanmar - Indonesia  4-0   @ Kuala Lumpur, Malaysia
+  Japan - Singapore  3-1   @ Kuala Lumpur, Malaysia
+

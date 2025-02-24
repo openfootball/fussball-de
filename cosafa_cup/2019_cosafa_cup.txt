@@ -1,0 +1,39 @@
+= COSAFA Cup 2019
+
+# Date       Sat May/25 - Sat Jun/8 2019 (14d)
+# Teams      13
+# Matches    20
+
+[Sat May 25]
+  Eswatini - Mauritius  2-2   @ Durban, South Africa
+[Sun May 26]
+  Mozambique - Namibia  1-2   @ Durban, South Africa
+  Malawi - Seychelles  3-0   @ Durban, South Africa
+[Mon May 27]
+  Eswatini - Comoros  2-2   @ Durban, South Africa
+[Tue May 28]
+  Seychelles - Mozambique  0-0   @ Durban, South Africa
+  Namibia - Malawi  1-2   @ Durban, South Africa
+[Wed May 29]
+  Comoros - Mauritius  2-1   @ Durban, South Africa
+[Thu May 30]
+  Mozambique - Malawi  1-1   @ Durban, South Africa
+  Namibia - Seychelles  3-0   @ Durban, South Africa
+[Sat Jun 1]
+  Lesotho - Uganda  0-0   @ Durban, South Africa   [Lesotho wins on penalties]
+  Zimbabwe - Comoros  2-0   @ Durban, South Africa
+[Sun Jun 2]
+  South Africa - Botswana  2-2   @ Durban, South Africa   [Botswana wins on penalties]
+  Zambia - Malawi  2-2   @ Durban, South Africa   [Zambia wins on penalties]
+[Tue Jun 4]
+  Comoros - Malawi  1-2   @ Durban, South Africa
+  South Africa - Uganda  1-1   @ Durban, South Africa   [South Africa wins on penalties]
+[Wed Jun 5]
+  Lesotho - Botswana  1-2   @ Durban, South Africa
+  Zimbabwe - Zambia  0-0   @ Durban, South Africa   [Zambia wins on penalties]
+[Fri Jun 7]
+  Lesotho - Zimbabwe  2-2   @ Durban, South Africa   [Zimbabwe wins on penalties]
+  South Africa - Malawi  0-0   @ Durban, South Africa   [South Africa wins on penalties]
+[Sat Jun 8]
+  Botswana - Zambia  0-1   @ Durban, South Africa
+

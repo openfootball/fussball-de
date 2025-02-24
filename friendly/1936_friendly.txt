@@ -1,0 +1,113 @@
+= Friendly 1936
+
+# Date       Wed Jan/1 - Sun Dec/13 1936 (347d)
+# Teams      37
+# Matches    57
+
+[Wed Jan 1]
+  French Guiana - Suriname  1-3   @ Cayenne, French Guiana
+[Sat Jan 4]
+  Jamaica - Trinidad and Tobago  0-1   @ Kingston, Jamaica
+[Sat Jan 11]
+  Jamaica - Trinidad and Tobago  1-2   @ Kingston, Jamaica
+[Sun Jan 12]
+  France - Netherlands  1-6   @ Paris, France
+[Sun Jan 19]
+  Spain - Austria  4-5   @ Madrid, Spain
+[Sun Jan 26]
+  Portugal - Austria  2-3   @ Porto, Portugal
+[Thu Jan 30]
+  Curaçao - Trinidad and Tobago  4-2   @ Willemstad, Curaçao
+[Sun Feb 9]
+  France - Czechoslovakia  0-3   @ Paris, France
+[Sun Feb 16]
+  Belgium - Poland  0-2   @ Brussels, Belgium
+[Sat Feb 22]
+  Trinidad and Tobago - Curaçao  3-0   @ Port of Spain, Trinidad and Tobago
+[Sun Feb 23]
+  Spain - Germany  1-2   @ Barcelona, Spain
+[Thu Feb 27]
+  Portugal - Germany  1-3   @ Lisbon, Portugal
+[Sun Mar 8]
+  France - Belgium  3-0   @ Colombes, France
+[Sun Mar 15]
+  Hungary - Germany  3-2   @ Budapest, Hungary
+[Tue Mar 17]
+  Republic of Ireland - Switzerland  1-0   @ Dublin, Irish Free State
+[Sun Mar 29]
+  Netherlands - Belgium  8-0   @ Amsterdam, Netherlands
+[Sun Apr 5]
+  Austria - Hungary  3-5   @ Vienna, Austria
+  Switzerland - Italy  1-2   @ Zürich, Switzerland
+[Sun May 3]
+  Belgium - Netherlands  1-1   @ Brussels, Belgium
+  Hungary - Republic of Ireland  3-3   @ Budapest, Hungary
+  Switzerland - Spain  0-2   @ Berne, Switzerland
+[Wed May 6]
+  Austria - England  2-1   @ Vienna, Austria
+[Sat May 9]
+  Belgium - England  3-2   @ Brussels, Belgium
+  Luxembourg - Republic of Ireland  1-5   @ Luxembourg, Luxembourg
+[Sun May 10]
+  Romania - Yugoslavia  3-2   @ Bucharest, Romania
+[Sun May 17]
+  Italy - Austria  2-2   @ Rome, Italy
+[Sun May 24]
+  Switzerland - Belgium  1-1   @ Basel, Switzerland
+[Thu May 28]
+  Estonia - Latvia  3-4   @ Tallinn, Estonia
+[Sun May 31]
+  Hungary - Italy  1-2   @ Budapest, Hungary
+[Sun Jun 14]
+  Lithuania - Latvia  1-5   @ Kaunas, Lithuania
+[Thu Jun 18]
+  Norway - Switzerland  1-2   @ Oslo, Norway
+[Fri Jun 19]
+  Egypt - Greece  3-1   @ Cairo, Egypt
+[Sun Jun 21]
+  Sweden - Switzerland  5-2   @ Stockholm, Sweden
+[Tue Jun 30]
+  Lithuania - Estonia  2-0   @ Kaunas, Lithuania
+[Sat Jul 4]
+  New Zealand - Australia  1-7   @ Dunedin, New Zealand
+[Sat Jul 11]
+  New Zealand - Australia  0-10   @ Wellington, New Zealand
+[Sun Jul 12]
+  Turkey - Yugoslavia  3-3   @ Istanbul, Turkey
+[Sat Jul 18]
+  New Zealand - Australia  1-4   @ Auckland, New Zealand
+[Sun Jul 26]
+  Sweden - Norway  3-4   @ Stockholm, Sweden
+[Sun Aug 9]
+  Argentina - Uruguay  1-0   @ Buenos Aires, Argentina
+[Thu Aug 20]
+  Estonia - Finland  2-2   @ Tallinn, Estonia
+[Sun Sep 6]
+  Latvia - Poland  3-3   @ Riga, Latvia
+  Yugoslavia - Poland  9-3   @ Belgrade, Yugoslavia
+[Sun Sep 13]
+  Poland - Germany  1-1   @ Warsaw, Poland
+[Sun Sep 20]
+  Uruguay - Argentina  2-1   @ Montevideo, Uruguay
+[Sun Sep 27]
+  Czechoslovakia - Germany  1-2   @ Prague, Czechoslovakia
+  Germany - Luxembourg  7-2   @ Krefeld, Germany
+[Sun Oct 4]
+  Denmark - Poland  2-1   @ Copenhagen, Denmark
+  Romania - Hungary  1-2   @ Bucharest, Romania
+[Wed Oct 14]
+  Scotland - Germany  2-0   @ Glasgow, Scotland
+[Sat Oct 17]
+  Republic of Ireland - Germany  5-2   @ Dublin, Irish Free State
+[Sun Nov 1]
+  Netherlands - Norway  3-3   @ Amsterdam, Netherlands
+[Sun Nov 15]
+  Germany - Italy  2-2   @ Berlin, Germany
+[Wed Dec 2]
+  England - Hungary  6-2   @ London, England
+[Sun Dec 6]
+  Republic of Ireland - Hungary  2-3   @ Dublin, Irish Free State
+[Sun Dec 13]
+  France - Yugoslavia  1-0   @ Paris, France
+  Italy - Czechoslovakia  2-0   @ Genoa, Italy
+

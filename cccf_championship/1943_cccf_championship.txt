@@ -1,0 +1,25 @@
+= CCCF Championship 1943
+
+# Date       Sun Dec/5 - Sun Dec/19 1943 (14d)
+# Teams      4
+# Matches    12
+
+[Sun Dec 5]
+  Costa Rica - Nicaragua  7-0   @ San Salvador, El Salvador
+  El Salvador - Guatemala  2-2   @ San Salvador, El Salvador
+[Tue Dec 7]
+  Costa Rica - Guatemala  2-3   @ San Salvador, El Salvador
+  El Salvador - Nicaragua  8-1   @ San Salvador, El Salvador
+[Thu Dec 9]
+  El Salvador - Costa Rica  4-2   @ San Salvador, El Salvador
+  Guatemala - Nicaragua  6-2   @ San Salvador, El Salvador
+[Sun Dec 12]
+  El Salvador - Guatemala  2-1   @ San Salvador, El Salvador
+  Nicaragua - Costa Rica  2-3   @ San Salvador, El Salvador
+[Thu Dec 16]
+  El Salvador - Nicaragua  10-1   @ San Salvador, El Salvador
+  Guatemala - Costa Rica  4-2   @ San Salvador, El Salvador
+[Sun Dec 19]
+  El Salvador - Costa Rica  2-4   @ San Salvador, El Salvador
+  Nicaragua - Guatemala  1-5   @ San Salvador, El Salvador
+

@@ -1,0 +1,11 @@
+= Copa Juan Pinto Durán 1981
+
+# Date       Wed Apr/29 - Wed Jul/15 1981 (77d)
+# Teams      2
+# Matches    2
+
+[Wed Apr 29]
+  Chile - Uruguay  1-2   @ Santiago, Chile
+[Wed Jul 15]
+  Uruguay - Chile  0-0   @ Montevideo, Uruguay
+

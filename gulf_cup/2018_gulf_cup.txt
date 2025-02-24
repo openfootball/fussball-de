@@ -1,0 +1,12 @@
+= Gulf Cup 2018
+
+# Date       Tue Jan/2 - Fri Jan/5 2018 (3d)
+# Teams      4
+# Matches    3
+
+[Tue Jan 2]
+  Iraq - United Arab Emirates  0-0   @ Kuwait City, Kuwait
+  Oman - Bahrain  1-0   @ Kuwait City, Kuwait
+[Fri Jan 5]
+  Oman - United Arab Emirates  0-0   @ Kuwait City, Kuwait
+

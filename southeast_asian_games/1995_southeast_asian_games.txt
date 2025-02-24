@@ -1,0 +1,38 @@
+= Southeast Asian Games 1995
+
+# Date       Mon Dec/4 - Sat Dec/16 1995 (12d)
+# Teams      10
+# Matches    24
+
+[Mon Dec 4]
+  Thailand - Indonesia  2-1   @ Chiang Mai, Thailand
+  Vietnam - Malaysia  2-0   @ Chiang Mai, Thailand
+  Singapore - Brunei  2-2   @ Chiang Mai, Thailand
+  Myanmar - Philippines  4-1   @ Chiang Mai, Thailand
+[Wed Dec 6]
+  Thailand - Malaysia  0-0   @ Chiang Mai, Thailand
+  Indonesia - Cambodia  10-0   @ Chiang Mai, Thailand
+  Singapore - Myanmar  4-2   @ Chiang Mai, Thailand
+  Laos - Philippines  1-0   @ Chiang Mai, Thailand
+[Fri Dec 8]
+  Vietnam - Cambodia  4-0   @ Chiang Mai, Thailand
+  Indonesia - Malaysia  3-0   @ Chiang Mai, Thailand
+  Singapore - Philippines  4-0   @ Chiang Mai, Thailand
+  Laos - Brunei  3-0   @ Chiang Mai, Thailand
+[Sun Dec 10]
+  Thailand - Vietnam  3-1   @ Chiang Mai, Thailand
+  Malaysia - Cambodia  9-0   @ Chiang Mai, Thailand
+  Singapore - Laos  0-0   @ Chiang Mai, Thailand
+  Myanmar - Brunei  2-0   @ Chiang Mai, Thailand
+[Tue Dec 12]
+  Thailand - Cambodia  9-0   @ Chiang Mai, Thailand
+  Vietnam - Indonesia  1-0   @ Chiang Mai, Thailand
+  Philippines - Brunei  1-0   @ Chiang Mai, Thailand
+  Myanmar - Laos  1-0   @ Chiang Mai, Thailand
+[Thu Dec 14]
+  Thailand - Singapore  1-0   @ Chiang Mai, Thailand
+  Vietnam - Myanmar  2-1   @ Chiang Mai, Thailand
+[Sat Dec 16]
+  Singapore - Myanmar  1-0   @ Chiang Mai, Thailand
+  Thailand - Vietnam  4-0   @ Chiang Mai, Thailand
+

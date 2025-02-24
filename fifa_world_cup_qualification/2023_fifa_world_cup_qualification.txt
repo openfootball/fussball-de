@@ -1,0 +1,157 @@
+= FIFA World Cup qualification 2023
+
+# Date       Thu Sep/7 - Tue Nov/21 2023 (75d)
+# Teams      109
+# Matches    138
+
+[Thu Sep 7]
+  Colombia - Venezuela  1-0   @ Barranquilla, Colombia
+  Paraguay - Peru  0-0   @ Ciudad del Este, Paraguay
+  Argentina - Ecuador  1-0   @ Buenos Aires, Argentina
+[Fri Sep 8]
+  Uruguay - Chile  3-1   @ Montevideo, Uruguay
+  Brazil - Bolivia  5-1   @ Belém, Brazil
+[Tue Sep 12]
+  Bolivia - Argentina  0-3   @ La Paz, Bolivia
+  Ecuador - Uruguay  2-1   @ Quito, Ecuador
+  Venezuela - Paraguay  1-0   @ Maturín, Venezuela
+  Peru - Brazil  0-1   @ Lima, Peru
+  Chile - Colombia  0-0   @ Santiago, Chile
+[Thu Oct 12]
+  Colombia - Uruguay  2-2   @ Barranquilla, Colombia
+  Bolivia - Ecuador  1-2   @ La Paz, Bolivia
+  Argentina - Paraguay  1-0   @ Buenos Aires, Argentina
+  Brazil - Venezuela  1-1   @ Cuiabá, Brazil
+  Chile - Peru  2-0   @ Santiago, Chile
+  Afghanistan - Mongolia  1-0   @ Dushanbe, Tajikistan
+  Cambodia - Pakistan  0-0   @ Phnom Penh, Cambodia
+  Taiwan - Timor-Leste  4-0   @ Kaohsiung, Taiwan
+  Hong Kong - Bhutan  4-0   @ Hong Kong, Hong Kong
+  Indonesia - Brunei  6-0   @ Jakarta, Indonesia
+  Maldives - Bangladesh  1-1   @ Malé, Maldives
+  Myanmar - Macau  5-1   @ Yangon, Myanmar
+  Nepal - Laos  1-1   @ Kathmandu, Nepal
+  Singapore - Guam  2-1   @ Kallang, Singapore
+  Yemen - Sri Lanka  3-0   @ Abha, Saudi Arabia
+[Tue Oct 17]
+  Venezuela - Chile  3-0   @ Maturín, Venezuela
+  Ecuador - Colombia  0-0   @ Quito, Ecuador
+  Paraguay - Bolivia  1-0   @ Asunción, Paraguay
+  Peru - Argentina  0-2   @ Lima, Peru
+  Uruguay - Brazil  2-0   @ Montevideo, Uruguay
+  Bangladesh - Maldives  2-1   @ Dhaka, Bangladesh
+  Bhutan - Hong Kong  2-0   @ Thimphu, Bhutan
+  Brunei - Indonesia  0-6   @ Bandar Seri Begawan, Brunei
+  Guam - Singapore  0-1   @ Dededo, Guam
+  Laos - Nepal  0-1   @ Vientiane, Laos
+  Macau - Myanmar  0-0   @ Taipa, Macau
+  Mongolia - Afghanistan  0-1   @ Ulaanbaatar, Mongolia
+  Pakistan - Cambodia  1-0   @ Islamabad, Pakistan
+  Sri Lanka - Yemen  1-1   @ Colombo, Sri Lanka
+  Taiwan - Timor-Leste  3-0   @ Kaohsiung, Taiwan
+[Wed Nov 15]
+  Ethiopia - Sierra Leone  0-0   @ El Jadida, Morocco
+  DR Congo - Mauritania  2-0   @ Kinshasa, DR Congo
+  Rwanda - Zimbabwe  0-0   @ Butare, Rwanda
+  Equatorial Guinea - Namibia  1-0   @ Malabo, Equatorial Guinea
+[Thu Nov 16]
+  Bolivia - Peru  2-0   @ La Paz, Bolivia
+  Venezuela - Ecuador  0-0   @ Maturín, Venezuela
+  Colombia - Brazil  2-1   @ Barranquilla, Colombia
+  Argentina - Uruguay  0-2   @ Buenos Aires, Argentina
+  Chile - Paraguay  0-0   @ Santiago, Chile
+  Qatar - Afghanistan  8-1   @ Al Rayyan, Qatar
+  Kuwait - India  0-1   @ Kuwait City, Kuwait
+  Japan - Myanmar  5-0   @ Suita, Japan
+  Syria - North Korea  1-0   @ Jeddah, Saudi Arabia
+  Thailand - China PR  1-2   @ Bangkok, Thailand
+  South Korea - Singapore  5-0   @ Seoul, South Korea
+  Oman - Taiwan  3-0   @ Muscat, Oman
+  Malaysia - Kyrgyzstan  4-3   @ Kuala Lumpur, Malaysia
+  Iran - Hong Kong  4-0   @ Tehran, Iran
+  Turkmenistan - Uzbekistan  1-3   @ Ashgabat, Turkmenistan
+  Iraq - Indonesia  5-1   @ Basra, Iraq
+  Philippines - Vietnam  0-2   @ Manila, Philippines
+  Tajikistan - Jordan  1-1   @ Dushanbe, Tajikistan
+  Saudi Arabia - Pakistan  4-0   @ Al Hofuf, Saudi Arabia
+  United Arab Emirates - Nepal  4-0   @ Dubai, United Arab Emirates
+  Yemen - Bahrain  0-2   @ Abha, Saudi Arabia
+  Lebanon - Palestine  0-0   @ Sharjah, United Arab Emirates
+  Australia - Bangladesh  7-0   @ Melbourne, Australia
+  Egypt - Djibouti  6-0   @ Cairo, Egypt
+  Sudan - Togo  1-1   @ Benghazi, Libya
+  Nigeria - Lesotho  1-1   @ Uyo, Nigeria
+  Cape Verde - Angola  0-0   @ Praia, Cape Verde
+  Burundi - Gambia  3-2   @ Dar es Salaam, Tanzania
+  Gabon - Kenya  2-1   @ Franceville, Gabon
+  Botswana - Mozambique  2-3   @ Francistown, Botswana
+  Algeria - Somalia  3-1   @ Algiers, Algeria
+[Fri Nov 17]
+  Burkina Faso - Guinea-Bissau  1-1   @ Marrakech, Morocco
+  Eswatini - Libya  0-1   @ Mbombela, South Africa
+  Cameroon - Mauritius  3-0   @ Douala, Cameroon
+  Zambia - Congo  4-2   @ Ndola, Zambia
+  Ivory Coast - Seychelles  9-0   @ Abidjan, Ivory Coast
+  Guinea - Uganda  2-1   @ Berkane, Morocco
+  Liberia - Malawi  0-1   @ Monrovia, Liberia
+  Tunisia - São Tomé and Príncipe  4-0   @ Radès, Tunisia
+  Comoros - Central African Republic  4-2   @ Moroni, Comoros
+  Ghana - Madagascar  1-0   @ Kumasi, Ghana
+  Mali - Chad  3-1   @ Bamako, Mali
+[Sat Nov 18]
+  Senegal - South Sudan  4-0   @ Diamniadio, Senegal
+  South Africa - Benin  2-1   @ Durban, South Africa
+  Niger - Tanzania  0-1   @ Marrakech, Morocco
+[Sun Nov 19]
+  Sierra Leone - Egypt  0-2   @ Monrovia, Liberia
+  Sudan - DR Congo  1-0   @ Benghazi, Libya
+  Zimbabwe - Nigeria  1-1   @ Butare, Rwanda
+  Burundi - Gabon  1-2   @ Dar es Salaam, Tanzania
+  Mozambique - Algeria  0-2   @ Maputo, Mozambique
+[Mon Nov 20]
+  Djibouti - Guinea-Bissau  0-1   @ Cairo, Egypt
+  Gambia - Ivory Coast  0-2   @ Dar es Salaam, Tanzania
+  Seychelles - Kenya  0-5   @ Abidjan, Ivory Coast
+  Liberia - Equatorial Guinea  0-1   @ Monrovia, Liberia
+  Mali - Central African Republic  1-1   @ Bamako, Mali
+  Chad - Madagascar  0-3   @ Oujda, Morocco
+[Tue Nov 21]
+  Ecuador - Chile  1-0   @ Quito, Ecuador
+  Paraguay - Colombia  0-1   @ Asunción, Paraguay
+  Uruguay - Bolivia  3-0   @ Montevideo, Uruguay
+  Peru - Venezuela  1-1   @ Lima, Peru
+  Brazil - Argentina  0-1   @ Rio de Janeiro, Brazil
+  India - Qatar  0-3   @ Bhubaneswar, India
+  Afghanistan - Kuwait  0-4   @ Dammam, Saudi Arabia
+  Myanmar - North Korea  1-6   @ Yangon, Myanmar
+  Syria - Japan  0-5   @ Jeddah, Saudi Arabia
+  China PR - South Korea  0-3   @ Shenzhen, China PR
+  Singapore - Thailand  1-3   @ Kallang, Singapore
+  Taiwan - Malaysia  0-1   @ Taipei, Taiwan
+  Kyrgyzstan - Oman  1-0   @ Bishkek, Kyrgyzstan
+  Uzbekistan - Iran  2-2   @ Tashkent, Uzbekistan
+  Hong Kong - Turkmenistan  2-2   @ Hong Kong, Hong Kong
+  Philippines - Indonesia  1-1   @ Manila, Philippines
+  Vietnam - Iraq  0-1   @ Hanoi, Vietnam
+  Pakistan - Tajikistan  1-6   @ Islamabad, Pakistan
+  Jordan - Saudi Arabia  0-2   @ Amman, Jordan
+  Bahrain - United Arab Emirates  0-2   @ Riffa, Bahrain
+  Nepal - Yemen  0-2   @ Kathmandu, Nepal
+  Palestine - Australia  0-1   @ Kuwait City, Kuwait
+  Bangladesh - Lebanon  1-1   @ Dhaka, Bangladesh
+  Ethiopia - Burkina Faso  0-3   @ El Jadida, Morocco
+  South Sudan - Mauritania  0-0   @ Diamniadio, Senegal
+  Togo - Senegal  0-0   @ Lomé, Togo
+  Lesotho - Benin  0-0   @ Durban, South Africa
+  Rwanda - South Africa  2-0   @ Butare, Rwanda
+  Eswatini - Cape Verde  0-2   @ Mbombela, South Africa
+  Libya - Cameroon  1-1   @ Benghazi, Libya
+  Mauritius - Angola  0-0   @ Saint Pierre, Mauritius
+  Niger - Zambia  2-1   @ Marrakech, Morocco
+  Tanzania - Morocco  0-2   @ Dar es Salaam, Tanzania
+  Somalia - Uganda  0-1   @ Berkane, Morocco
+  Botswana - Guinea  1-0   @ Francistown, Botswana
+  Malawi - Tunisia  0-1   @ Lilongwe, Malawi
+  São Tomé and Príncipe - Namibia  0-2   @ Agadir, Morocco
+  Comoros - Ghana  1-0   @ Moroni, Comoros
+

@@ -1,0 +1,55 @@
+= Asian Games 1974
+
+# Date       Mon Sep/2 - Sun Sep/15 1974 (13d)
+# Teams      15
+# Matches    35
+
+[Mon Sep 2]
+  Kuwait - Thailand  3-2   @ Tehran, Iran
+  India - Iraq  0-3   @ Tehran, Iran
+  North Korea - China PR  2-0   @ Tehran, Iran
+[Tue Sep 3]
+  Japan - Philippines  4-0   @ Tehran, Iran
+  Israel - Malaysia  8-3   @ Tehran, Iran
+  Iran - Pakistan  7-0   @ Tehran, Iran
+  Myanmar - Bahrain  4-0   @ Tehran, Iran
+[Wed Sep 4]
+  South Korea - Thailand  1-0   @ Tehran, Iran
+  China PR - India  7-1   @ Tehran, Iran
+  North Korea - Iraq  0-1   @ Tehran, Iran
+[Thu Sep 5]
+  Israel - Philippines  6-0   @ Tehran, Iran
+  Japan - Malaysia  1-1   @ Tehran, Iran
+  Pakistan - Bahrain  5-1   @ Tehran, Iran
+  Iran - Myanmar  2-1   @ Tehran, Iran
+[Fri Sep 6]
+  South Korea - Kuwait  0-4   @ Tehran, Iran
+  China PR - Iraq  0-1   @ Tehran, Iran
+  India - North Korea  1-4   @ Tehran, Iran
+[Sat Sep 7]
+  Malaysia - Philippines  11-0   @ Tehran, Iran
+  Japan - Israel  0-3   @ Tehran, Iran
+  Myanmar - Pakistan  5-1   @ Tehran, Iran
+  Iran - Bahrain  6-0   @ Tehran, Iran
+[Mon Sep 9]
+  Iran - Malaysia  1-0   @ Tehran, Iran
+  Iraq - South Korea  1-1   @ Tehran, Iran
+[Tue Sep 10]
+  Kuwait - North Korea  0-2   @ Tehran, Iran
+  Israel - Myanmar  3-0   @ Tehran, Iran
+[Wed Sep 11]
+  Iran - South Korea  2-0   @ Tehran, Iran
+  Malaysia - Iraq  0-0   @ Tehran, Iran
+[Thu Sep 12]
+  Kuwait - Myanmar  5-2   @ Tehran, Iran
+  Israel - North Korea  2-0   @ Tehran, Iran
+[Fri Sep 13]
+  Iran - Iraq  1-0   @ Tehran, Iran
+  South Korea - Malaysia  2-3   @ Tehran, Iran
+[Sat Sep 14]
+  North Korea - Myanmar  2-2   @ Tehran, Iran
+  Israel - Kuwait  2-0   @ Tehran, Iran
+[Sun Sep 15]
+  North Korea - Malaysia  1-2   @ Tehran, Iran
+  Iran - Israel  1-0   @ Tehran, Iran
+

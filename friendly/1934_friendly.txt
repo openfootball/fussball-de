@@ -1,0 +1,101 @@
+= Friendly 1934
+
+# Date       Sun Jan/14 - Sun Dec/16 1934 (336d)
+# Teams      36
+# Matches    49
+
+[Sun Jan 14]
+  Germany - Hungary  3-1   @ Frankfurt am Main, Germany
+[Sun Jan 21]
+  Belgium - France  2-3   @ Brussels, Belgium
+[Fri Feb 2]
+  Catalonia - Spain  0-2   @ Barcelona, Spain
+[Sun Mar 11]
+  France - Switzerland  0-1   @ Paris, France
+  Netherlands - Belgium  9-3   @ Amsterdam, Netherlands
+[Tue Mar 13]
+  Guadeloupe - Martinique  0-6   @ Basse-Terre, Guadeloupe
+[Sun Mar 18]
+  Bulgaria - Yugoslavia  1-2   @ Sofia, Bulgaria
+[Sun Mar 25]
+  France - Czechoslovakia  1-2   @ Colombes, France
+[Sun Apr 1]
+  Yugoslavia - Bulgaria  2-3   @ Belgrade, Yugoslavia
+[Sun Apr 15]
+  Austria - Hungary  5-2   @ Vienna, Austria
+[Thu May 10]
+  Hungary - England  2-1   @ Budapest, Hungary
+  Netherlands - France  4-5   @ Amsterdam, Netherlands
+[Sat May 12]
+  Philippines - China PR  0-2   @ Manila, Philippines
+[Sun May 13]
+  Japan - Indonesia  1-7   @ Manila, Philippines
+[Mon May 14]
+  China PR - Indonesia  2-0   @ Manila, Philippines
+[Wed May 16]
+  Czechoslovakia - England  2-1   @ Prague, Czechoslovakia
+[Sat May 19]
+  Philippines - Indonesia  3-2   @ Manila, Philippines
+[Sun May 20]
+  China PR - Japan  4-3   @ Manila, Philippines
+[Mon May 21]
+  Denmark - Poland  4-2   @ Copenhagen, Denmark
+[Wed May 23]
+  Sweden - Poland  4-2   @ Stockholm, Sweden
+[Sun Jun 3]
+  Yugoslavia - Brazil  8-4   @ Belgrade, Yugoslavia
+[Sun Jun 10]
+  Lithuania - Latvia  2-0   @ Kaunas, Lithuania
+[Sun Jun 17]
+  Catalonia - Brazil  2-1   @ Barcelona, Spain
+[Sun Jun 24]
+  Catalonia - Brazil  2-2   @ Girona, Spain
+[Fri Jun 29]
+  Lithuania - Estonia  1-1   @ Kaunas, Lithuania
+[Wed Jul 18]
+  Uruguay - Argentina  2-2   @ Montevideo, Uruguay
+[Sun Jul 22]
+  Curaçao - Suriname  3-1   @ Willemstad, Curaçao
+[Wed Jul 25]
+  Curaçao - Suriname  3-2   @ Willemstad, Curaçao
+[Sun Jul 29]
+  Curaçao - Suriname  2-2   @ Willemstad, Curaçao
+[Tue Jul 31]
+  Aruba - Suriname  1-1   @ Oranjestad, Aruba
+[Mon Aug 6]
+  Suriname - Trinidad and Tobago  3-3   @ Paramaribo, Dutch Guyana
+[Wed Aug 8]
+  Estonia - Finland  1-1   @ Tallinn, Estonia
+[Fri Aug 10]
+  Estonia - Hungary  2-2   @ Tallinn, Estonia
+[Tue Aug 14]
+  Latvia - Finland  1-1   @ Riga, Latvia
+[Wed Aug 15]
+  Argentina - Uruguay  1-0   @ Avellaneda, Argentina
+[Thu Aug 16]
+  Lithuania - Finland  1-0   @ Kaunas, Lithuania
+[Sun Aug 26]
+  Yugoslavia - Poland  4-1   @ Belgrade, Yugoslavia
+[Sun Sep 2]
+  Czechoslovakia - Yugoslavia  3-1   @ Prague, Czechoslovakia
+[Sun Sep 9]
+  Latvia - Lithuania  1-3   @ Riga, Latvia
+  Poland - Germany  2-5   @ Warsaw, Poland
+[Sun Sep 23]
+  Sweden - Latvia  3-1   @ Stockholm, Sweden
+[Sun Oct 7]
+  Denmark - Germany  2-5   @ Copenhagen, Denmark
+[Sun Oct 14]
+  Latvia - Poland  2-6   @ Riga, Latvia
+  Poland - Romania  3-3   @ Lwów, Poland
+[Sun Nov 4]
+  Switzerland - Netherlands  2-4   @ Berne, Switzerland
+[Wed Nov 14]
+  England - Italy  3-2   @ London, England
+[Sun Dec 9]
+  Italy - Hungary  4-2   @ Milan, Italy
+[Sat Dec 15]
+  Republic of Ireland - Hungary  2-4   @ Dublin, Irish Free State
+[Sun Dec 16]
+  France - Yugoslavia  3-2   @ Paris, France
+

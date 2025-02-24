@@ -1,0 +1,16 @@
+= AFC Asian Cup qualification 2024
+
+# Date       Thu Sep/5 - Tue Sep/10 2024 (5d)
+# Teams      6
+# Matches    6
+
+[Thu Sep 5]
+  Sri Lanka - Cambodia  0-0   @ Colombo, Sri Lanka
+  Timor-Leste - Mongolia  4-1   @ Gianyar, Indonesia
+[Fri Sep 6]
+  Brunei - Macau  3-0   @ Bandar Seri Begawan, Brunei
+[Tue Sep 10]
+  Cambodia - Sri Lanka  2-2   @ Phnom Penh, Cambodia
+  Macau - Brunei  0-1   @ Taipa, Macau
+  Mongolia - Timor-Leste  2-0   @ Ulaanbaatar, Mongolia
+

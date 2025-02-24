@@ -1,0 +1,21 @@
+= Indonesia Tournament 1978
+
+# Date       Tue Jun/13 - Fri Jun/23 1978 (10d)
+# Teams      5
+# Matches    8
+
+[Tue Jun 13]
+  Indonesia - Malaysia  3-0   @ Jakarta, Indonesia
+[Thu Jun 15]
+  Indonesia - Thailand  1-0   @ Jakarta, Indonesia
+[Fri Jun 16]
+  Malaysia - Singapore  1-1   @ Jakarta, Indonesia
+[Sat Jun 17]
+  Singapore - Thailand  1-3   @ Jakarta, Indonesia
+[Wed Jun 21]
+  Indonesia - Singapore  2-2   @ Jakarta, Indonesia
+  Malaysia - Thailand  1-1   @ Jakarta, Indonesia
+[Fri Jun 23]
+  Indonesia - South Korea  1-3   @ Jakarta, Indonesia
+  Malaysia - Thailand  3-3   @ Jakarta, Indonesia
+

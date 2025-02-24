@@ -1,0 +1,19 @@
+= Baltic Cup 1929
+
+# Date       Wed Aug/14 - Fri Aug/16 1929 (2d)
+# Teams      3
+# Matches    3
+
+[Wed Aug 14]
+  Latvia - Lithuania  3-1   @ Riga, Latvia
+     Voldemārs Plade 51' Voldemārs Plade 68' Voldemārs Plade 86';
+     Stepas Chmelevskis 89' (pen.)
+[Thu Aug 15]
+  Latvia - Estonia  2-2   @ Riga, Latvia
+     Aleksandrs Priede 27' Arkādijs Pavlovs 63';
+     Eugen Einman 9' Eduard Ellman-Eelma 29'
+[Fri Aug 16]
+  Estonia - Lithuania  5-2   @ Riga, Latvia
+     Eugen Einman 16' Arnold Pihlak 32' Eugen Einman 59' Eduard Ellman-Eelma 75' Eduard Ellman-Eelma 85';
+     Stepas Chmelevskis 26' Ricardas Rutkauskas 35'
+

@@ -1,0 +1,11 @@
+= Gold Cup qualification 2015
+
+# Date       Wed Mar/25 - Sun Mar/29 2015 (4d)
+# Teams      2
+# Matches    2
+
+[Wed Mar 25]
+  French Guiana - Honduras  3-1   @ Cayenne, French Guiana
+[Sun Mar 29]
+  Honduras - French Guiana  3-0   @ San Pedro Sula, Honduras
+

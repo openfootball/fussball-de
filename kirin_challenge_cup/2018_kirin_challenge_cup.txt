@@ -1,0 +1,17 @@
+= Kirin Challenge Cup 2018
+
+# Date       Tue Sep/11 - Tue Nov/20 2018 (70d)
+# Teams      6
+# Matches    5
+
+[Tue Sep 11]
+  Japan - Costa Rica  3-0   @ Suita, Japan
+[Fri Oct 12]
+  Japan - Panama  3-0   @ Niigata, Japan
+[Tue Oct 16]
+  Japan - Uruguay  4-3   @ Saitama, Japan
+[Fri Nov 16]
+  Japan - Venezuela  1-1   @ Ōita, Japan
+[Tue Nov 20]
+  Japan - Kyrgyzstan  4-0   @ Toyota, Japan
+
